@@ -1,0 +1,6 @@
+interface:
+  display_name: "dididididaodao"
+  short_description: "按用户偏好写清楚：标题直白，长列表前先介绍，保留完整条件"
+  default_prompt: "使用 $dididididaodao，按当前用途把内容写得直白、完整、容易理解。"
+policy:
+  allow_implicit_invocation: true
